@@ -1,0 +1,291 @@
+Recipe Name,Base Item,Input 1,Input 1 Per Min,Input 2,Input 2 Per Min,Input 3,Input 3 Per Min,Input 4,Input 4 Per Min,Output 1,Output 1 Per Min,Output 2,Output 2 Per Min,Building
+AI Expansion Server,AI Expansion Server,Magnetic Field Generator,4.0,Neural-Quantum Processor,4.0,Superposition Oscillator,4.0,Excited Photonic Matter,100.0,AI Expansion Server,4.0,Dark Matter Residue,100.0,QuantumEncoder
+AI Limiter,AI Limiter,Copper Sheet,25.0,Quickwire,100.0,,0,,0,AI Limiter,5.0,,0,Assembler
+Alternate: Plastic AI Limiter,AI Limiter,Quickwire,120.0,Plastic,28.0,,0,,0,AI Limiter,8.0,,0,Assembler
+Actual Snow,Actual Snow,FICSMAS Gift,25.0,,0,,0,,0,Actual Snow,10.0,,0,Constructor
+Adaptive Control Unit,Adaptive Control Unit,Automated Wiring,5.0,Circuit Board,5.0,Heavy Modular Frame,1.0,Computer,2.0,Adaptive Control Unit,1.0,,0,Manufacturer
+Alclad Aluminum Sheet,Alclad Aluminum Sheet,Aluminum Ingot,30.0,Copper Ingot,10.0,,0,,0,Alclad Aluminum Sheet,30.0,,0,Assembler
+Alien DNA Capsule,Alien DNA Capsule,Alien Protein,10.0,,0,,0,,0,Alien DNA Capsule,10.0,,0,Constructor
+Alien Power Matrix,Alien Power Matrix,SAM Fluctuator,12.5,Power Shard,7.5,Superposition Oscillator,7.5,Excited Photonic Matter,60.0,Alien Power Matrix,2.5,Dark Matter Residue,60.0,QuantumEncoder
+Hog Protein,Alien Protein,Hog Remains,20.0,,0,,0,,0,Alien Protein,20.0,,0,Constructor
+Spitter Protein,Alien Protein,Spitter Remains,20.0,,0,,0,,0,Alien Protein,20.0,,0,Constructor
+Stinger Protein,Alien Protein,Stinger Remains,20.0,,0,,0,,0,Alien Protein,20.0,,0,Constructor
+Hatcher Protein,Alien Protein,Hatcher Remains,20.0,,0,,0,,0,Alien Protein,20.0,,0,Constructor
+Alumina Solution,Alumina Solution,Bauxite,120.0,Water,180.0,,0,,0,Alumina Solution,120.0,Silica,50.0,Refinery
+Unpackage Alumina Solution,Alumina Solution,Packaged Alumina Solution,120.0,,0,,0,,0,Alumina Solution,120.0,Empty Canister,120.0,Packager
+Alternate: Sloppy Alumina,Alumina Solution,Bauxite,200.0,Water,200.0,,0,,0,Alumina Solution,240.0,,0,Refinery
+Aluminum Casing,Aluminum Casing,Aluminum Ingot,90.0,,0,,0,,0,Aluminum Casing,60.0,,0,Constructor
+Alternate: Alclad Casing,Aluminum Casing,Aluminum Ingot,150.0,Copper Ingot,75.0,,0,,0,Aluminum Casing,112.5,,0,Assembler
+Alternate: Pure Aluminum Ingot,Aluminum Ingot,Aluminum Scrap,60.0,,0,,0,,0,Aluminum Ingot,30.0,,0,Smelter
+Aluminum Ingot,Aluminum Ingot,Aluminum Scrap,90.0,Silica,75.0,,0,,0,Aluminum Ingot,60.0,,0,Foundry
+Aluminum Scrap,Aluminum Scrap,Alumina Solution,240.0,Coal,120.0,,0,,0,Aluminum Scrap,360.0,Water,120.0,Refinery
+Alternate: Electrode Aluminum Scrap,Aluminum Scrap,Alumina Solution,180.0,Petroleum Coke,60.0,,0,,0,Aluminum Scrap,300.0,Water,105.0,Refinery
+Alternate: Instant Scrap,Aluminum Scrap,Bauxite,150.0,Coal,100.0,Sulfuric Acid,50.0,Water,60.0,Aluminum Scrap,300.0,Water,50.0,Blender
+Assembly Director System,Assembly Director System,Adaptive Control Unit,1.5,Supercomputer,0.75,,0,,0,Assembly Director System,0.75,,0,Assembler
+Alternate: Automated Speed Wiring,Automated Wiring,Stator,3.75,Wire,75.0,High-Speed Connector,1.875,,0,Automated Wiring,7.5,,0,Manufacturer
+Automated Wiring,Automated Wiring,Stator,2.5,Cable,50.0,,0,,0,Automated Wiring,2.5,,0,Assembler
+Ballistic Warp Drive,Ballistic Warp Drive,Thermal Propulsion Rocket,1.0,Singularity Cell,5.0,Superposition Oscillator,2.0,Dark Matter Crystal,40.0,Ballistic Warp Drive,1.0,,0,Manufacturer
+Battery,Battery,Sulfuric Acid,50.0,Alumina Solution,40.0,Aluminum Casing,20.0,,0,Battery,20.0,Water,30.0,Blender
+Alternate: Classic Battery,Battery,Sulfur,45.0,Alclad Aluminum Sheet,52.5,Plastic,60.0,Wire,90.0,Battery,30.0,,0,Manufacturer
+Bauxite (Caterium),Bauxite,Reanimated SAM,10.0,Caterium Ore,150.0,,0,,0,Bauxite,120.0,,0,Converter
+Bauxite (Copper),Bauxite,Reanimated SAM,10.0,Copper Ore,180.0,,0,,0,Bauxite,120.0,,0,Converter
+Biochemical Sculptor,Biochemical Sculptor,Assembly Director System,0.5,Ficsite Trigon,40.0,Water,10.0,,0,Biochemical Sculptor,2.0,,0,Blender
+Biomass (Mycelia),Biomass,Mycelia,15.0,,0,,0,,0,Biomass,150.0,,0,Constructor
+Biomass (Alien Protein),Biomass,Alien Protein,15.0,,0,,0,,0,Biomass,1500.0,,0,Constructor
+Biomass (Leaves),Biomass,Leaves,120.0,,0,,0,,0,Biomass,60.0,,0,Constructor
+Biomass (Wood),Biomass,Wood,60.0,,0,,0,,0,Biomass,300.0,,0,Constructor
+Alternate: Fine Black Powder,Black Powder,Sulfur,7.5,Compacted Coal,15.0,,0,,0,Black Powder,45.0,,0,Assembler
+Black Powder,Black Powder,Coal,15.0,Sulfur,15.0,,0,,0,Black Powder,30.0,,0,Assembler
+Blue FICSMAS Ornament,Blue FICSMAS Ornament,FICSMAS Gift,5.0,,0,,0,,0,Blue FICSMAS Ornament,10.0,,0,Smelter
+Alternate: Coated Cable,Cable,Wire,37.5,Heavy Oil Residue,15.0,,0,,0,Cable,67.5,,0,Refinery
+Alternate: Quickwire Cable,Cable,Quickwire,7.5,Rubber,5.0,,0,,0,Cable,27.5,,0,Assembler
+Alternate: Insulated Cable,Cable,Wire,45.0,Rubber,30.0,,0,,0,Cable,100.0,,0,Assembler
+Cable,Cable,Wire,60.0,,0,,0,,0,Cable,30.0,,0,Constructor
+Candy Cane,Candy Cane,FICSMAS Gift,15.0,,0,,0,,0,Candy Cane,5.0,,0,Constructor
+Alternate: Pure Caterium Ingot,Caterium Ingot,Caterium Ore,24.0,Water,24.0,,0,,0,Caterium Ingot,12.0,,0,Refinery
+Alternate: Tempered Caterium Ingot,Caterium Ingot,Caterium Ore,45.0,Petroleum Coke,15.0,,0,,0,Caterium Ingot,22.5,,0,Foundry
+Alternate: Leached Caterium Ingot,Caterium Ingot,Caterium Ore,54.0,Sulfuric Acid,30.0,,0,,0,Caterium Ingot,36.0,,0,Refinery
+Caterium Ingot,Caterium Ingot,Caterium Ore,45.0,,0,,0,,0,Caterium Ingot,15.0,,0,Smelter
+Caterium Ore (Copper),Caterium Ore,Reanimated SAM,10.0,Copper Ore,150.0,,0,,0,Caterium Ore,120.0,,0,Converter
+Caterium Ore (Quartz),Caterium Ore,Reanimated SAM,10.0,Raw Quartz,120.0,,0,,0,Caterium Ore,120.0,,0,Converter
+Circuit Board,Circuit Board,Copper Sheet,15.0,Plastic,30.0,,0,,0,Circuit Board,7.5,,0,Assembler
+Alternate: Electrode Circuit Board,Circuit Board,Rubber,20.0,Petroleum Coke,40.0,,0,,0,Circuit Board,5.0,,0,Assembler
+Alternate: Caterium Circuit Board,Circuit Board,Plastic,12.5,Quickwire,37.5,,0,,0,Circuit Board,8.75,,0,Assembler
+Alternate: Silicon Circuit Board,Circuit Board,Copper Sheet,27.5,Silica,27.5,,0,,0,Circuit Board,12.5,,0,Assembler
+Cluster Nobelisk,Cluster Nobelisk,Nobelisk,7.5,Smokeless Powder,10.0,,0,,0,Cluster Nobelisk,2.5,,0,Assembler
+Coal (Iron),Coal,Reanimated SAM,10.0,Iron Ore,180.0,,0,,0,Coal,120.0,,0,Converter
+Coal (Limestone),Coal,Reanimated SAM,10.0,Limestone,360.0,,0,,0,Coal,120.0,,0,Converter
+Alternate: Charcoal,Coal,Wood,15.0,,0,,0,,0,Coal,150.0,,0,Constructor
+Alternate: Biocoal,Coal,Biomass,37.5,,0,,0,,0,Coal,45.0,,0,Constructor
+Alternate: Compacted Coal,Compacted Coal,Coal,25.0,Sulfur,25.0,,0,,0,Compacted Coal,25.0,,0,Assembler
+Computer,Computer,Circuit Board,10.0,Cable,20.0,Plastic,40.0,,0,Computer,2.5,,0,Manufacturer
+Alternate: Crystal Computer,Computer,Circuit Board,5.0,Crystal Oscillator,1.6666666666666667,,0,,0,Computer,3.3333333333333335,,0,Assembler
+Alternate: Caterium Computer,Computer,Circuit Board,15.0,Quickwire,52.5,Rubber,22.5,,0,Computer,3.75,,0,Manufacturer
+Alternate: Wet Concrete,Concrete,Limestone,120.0,Water,100.0,,0,,0,Concrete,80.0,,0,Refinery
+Alternate: Rubber Concrete,Concrete,Limestone,100.0,Rubber,20.0,,0,,0,Concrete,90.0,,0,Assembler
+Alternate: Fine Concrete,Concrete,Silica,15.0,Limestone,60.0,,0,,0,Concrete,50.0,,0,Assembler
+Concrete,Concrete,Limestone,45.0,,0,,0,,0,Concrete,15.0,,0,Constructor
+Cooling System,Cooling System,Heat Sink,12.0,Rubber,12.0,Water,30.0,Nitrogen Gas,150.0,Cooling System,6.0,,0,Blender
+Alternate: Cooling Device,Cooling System,Heat Sink,10.0,Motor,2.5,Nitrogen Gas,60.0,,0,Cooling System,5.0,,0,Blender
+Copper FICSMAS Ornament,Copper FICSMAS Ornament,Red FICSMAS Ornament,10.0,Copper Ingot,10.0,,0,,0,Copper FICSMAS Ornament,5.0,,0,Foundry
+Alternate: Pure Copper Ingot,Copper Ingot,Copper Ore,15.0,Water,10.0,,0,,0,Copper Ingot,37.5,,0,Refinery
+Alternate: Copper Alloy Ingot,Copper Ingot,Copper Ore,50.0,Iron Ore,50.0,,0,,0,Copper Ingot,100.0,,0,Foundry
+Alternate: Tempered Copper Ingot,Copper Ingot,Copper Ore,25.0,Petroleum Coke,40.0,,0,,0,Copper Ingot,60.0,,0,Foundry
+Alternate: Leached Copper Ingot,Copper Ingot,Copper Ore,45.0,Sulfuric Acid,25.0,,0,,0,Copper Ingot,110.0,,0,Refinery
+Copper Ingot,Copper Ingot,Copper Ore,30.0,,0,,0,,0,Copper Ingot,30.0,,0,Smelter
+Copper Ore (Quartz),Copper Ore,Reanimated SAM,10.0,Raw Quartz,100.0,,0,,0,Copper Ore,120.0,,0,Converter
+Copper Ore (Sulfur),Copper Ore,Reanimated SAM,10.0,Sulfur,120.0,,0,,0,Copper Ore,120.0,,0,Converter
+Copper Powder,Copper Powder,Copper Ingot,300.0,,0,,0,,0,Copper Powder,50.0,,0,Constructor
+Alternate: Steamed Copper Sheet,Copper Sheet,Copper Ingot,22.5,Water,22.5,,0,,0,Copper Sheet,22.5,,0,Refinery
+Copper Sheet,Copper Sheet,Copper Ingot,20.0,,0,,0,,0,Copper Sheet,10.0,,0,Constructor
+Unpackage Oil,Crude Oil,Packaged Oil,60.0,,0,,0,,0,Crude Oil,60.0,Empty Canister,60.0,Packager
+Crystal Oscillator,Crystal Oscillator,Quartz Crystal,18.0,Cable,14.0,Reinforced Iron Plate,2.5,,0,Crystal Oscillator,1.0,,0,Manufacturer
+Alternate: Insulated Crystal Oscillator,Crystal Oscillator,Quartz Crystal,18.75,Rubber,13.125,AI Limiter,1.875,,0,Crystal Oscillator,1.875,,0,Manufacturer
+Dark Matter Crystal,Dark Matter Crystal,Diamonds,30.0,Dark Matter Residue,150.0,,0,,0,Dark Matter Crystal,30.0,,0,HadronCollider
+Alternate: Dark Matter Trap,Dark Matter Crystal,Time Crystal,30.0,Dark Matter Residue,150.0,,0,,0,Dark Matter Crystal,60.0,,0,HadronCollider
+Alternate: Dark Matter Crystallization,Dark Matter Crystal,Dark Matter Residue,200.0,,0,,0,,0,Dark Matter Crystal,20.0,,0,HadronCollider
+Dark Matter Residue,Dark Matter Residue,Reanimated SAM,50.0,,0,,0,,0,Dark Matter Residue,100.0,,0,Converter
+Alternate: Turbo Diamonds,Diamonds,Coal,600.0,Packaged Turbofuel,40.0,,0,,0,Diamonds,60.0,,0,HadronCollider
+Diamonds,Diamonds,Coal,600.0,,0,,0,,0,Diamonds,30.0,,0,HadronCollider
+Alternate: Pink Diamonds,Diamonds,Coal,120.0,Quartz Crystal,45.0,,0,,0,Diamonds,15.0,,0,Converter
+Alternate: Petroleum Diamonds,Diamonds,Petroleum Coke,720.0,,0,,0,,0,Diamonds,30.0,,0,HadronCollider
+Alternate: Oil-Based Diamonds,Diamonds,Crude Oil,200.0,,0,,0,,0,Diamonds,40.0,,0,HadronCollider
+Alternate: Cloudy Diamonds,Diamonds,Coal,240.0,Limestone,480.0,,0,,0,Diamonds,20.0,,0,HadronCollider
+Electromagnetic Control Rod,Electromagnetic Control Rod,Stator,6.0,AI Limiter,4.0,,0,,0,Electromagnetic Control Rod,4.0,,0,Assembler
+Alternate: Electromagnetic Connection Rod,Electromagnetic Control Rod,Stator,8.0,High-Speed Connector,4.0,,0,,0,Electromagnetic Control Rod,8.0,,0,Assembler
+Alternate: Steel Canister,Empty Canister,Steel Ingot,40.0,,0,,0,,0,Empty Canister,40.0,,0,Constructor
+Empty Canister,Empty Canister,Plastic,30.0,,0,,0,,0,Empty Canister,60.0,,0,Constructor
+Alternate: Coated Iron Canister,Empty Canister,Iron Plate,30.0,Copper Sheet,15.0,,0,,0,Empty Canister,60.0,,0,Assembler
+Empty Fluid Tank,Empty Fluid Tank,Aluminum Ingot,60.0,,0,,0,,0,Empty Fluid Tank,60.0,,0,Constructor
+Encased Industrial Beam,Encased Industrial Beam,Steel Beam,18.0,Concrete,36.0,,0,,0,Encased Industrial Beam,6.0,,0,Assembler
+Alternate: Encased Industrial Pipe,Encased Industrial Beam,Steel Pipe,24.0,Concrete,20.0,,0,,0,Encased Industrial Beam,4.0,,0,Assembler
+Encased Plutonium Cell,Encased Plutonium Cell,Plutonium Pellet,10.0,Concrete,20.0,,0,,0,Encased Plutonium Cell,5.0,,0,Assembler
+Alternate: Instant Plutonium Cell,Encased Plutonium Cell,Non-Fissile Uranium,75.0,Aluminum Casing,10.0,,0,,0,Encased Plutonium Cell,10.0,,0,HadronCollider
+Encased Uranium Cell,Encased Uranium Cell,Uranium,50.0,Concrete,15.0,Sulfuric Acid,40.0,,0,Encased Uranium Cell,25.0,Sulfuric Acid,10.0,Blender
+Alternate: Infused Uranium Cell,Encased Uranium Cell,Uranium,25.0,Silica,15.0,Sulfur,25.0,Quickwire,75.0,Encased Uranium Cell,20.0,,0,Manufacturer
+Explosive Rebar,Explosive Rebar,Iron Rebar,10.0,Smokeless Powder,10.0,Steel Pipe,10.0,,0,Explosive Rebar,5.0,,0,Manufacturer
+FICSMAS Bow,FICSMAS Bow,FICSMAS Gift,10.0,,0,,0,,0,FICSMAS Bow,5.0,,0,Constructor
+FICSMAS Decoration,FICSMAS Decoration,FICSMAS Tree Branch,15.0,FICSMAS Ornament Bundle,6.0,,0,,0,FICSMAS Decoration,2.0,,0,Assembler
+FICSMAS Ornament Bundle,FICSMAS Ornament Bundle,Copper FICSMAS Ornament,5.0,Iron FICSMAS Ornament,5.0,,0,,0,FICSMAS Ornament Bundle,5.0,,0,Assembler
+FICSMAS Tree Branch,FICSMAS Tree Branch,FICSMAS Gift,10.0,,0,,0,,0,FICSMAS Tree Branch,10.0,,0,Constructor
+FICSMAS Wonder Star,FICSMAS Wonder Star,FICSMAS Decoration,5.0,Candy Cane,20.0,,0,,0,FICSMAS Wonder Star,1.0,,0,Assembler
+Alternate: Polyester Fabric,Fabric,Polymer Resin,30.0,Water,30.0,,0,,0,Fabric,30.0,,0,Refinery
+Fabric,Fabric,Mycelia,15.0,Biomass,75.0,,0,,0,Fabric,15.0,,0,Assembler
+Fancy Fireworks,Fancy Fireworks,FICSMAS Tree Branch,10.0,FICSMAS Bow,7.5,,0,,0,Fancy Fireworks,2.5,,0,Assembler
+Ficsite Ingot (Iron),Ficsite Ingot,Reanimated SAM,40.0,Iron Ingot,240.0,,0,,0,Ficsite Ingot,10.0,,0,Converter
+Ficsite Ingot (Aluminum),Ficsite Ingot,Reanimated SAM,60.0,Aluminum Ingot,120.0,,0,,0,Ficsite Ingot,30.0,,0,Converter
+Ficsite Ingot (Caterium),Ficsite Ingot,Reanimated SAM,45.0,Caterium Ingot,60.0,,0,,0,Ficsite Ingot,15.0,,0,Converter
+Ficsite Trigon,Ficsite Trigon,Ficsite Ingot,10.0,,0,,0,,0,Ficsite Trigon,30.0,,0,Constructor
+Ficsonium,Ficsonium,Plutonium Waste,10.0,Singularity Cell,10.0,Dark Matter Residue,200.0,,0,Ficsonium,10.0,,0,HadronCollider
+Ficsonium Fuel Rod,Ficsonium Fuel Rod,Ficsonium,5.0,Electromagnetic Control Rod,5.0,Ficsite Trigon,100.0,Excited Photonic Matter,50.0,Ficsonium Fuel Rod,2.5,Dark Matter Residue,50.0,QuantumEncoder
+Fuel,Fuel,Crude Oil,60.0,,0,,0,,0,Fuel,40.0,Polymer Resin,30.0,Refinery
+Residual Fuel,Fuel,Heavy Oil Residue,60.0,,0,,0,,0,Fuel,40.0,,0,Refinery
+Unpackage Fuel,Fuel,Packaged Fuel,60.0,,0,,0,,0,Fuel,60.0,Empty Canister,60.0,Packager
+Alternate: Diluted Fuel,Fuel,Heavy Oil Residue,50.0,Water,100.0,,0,,0,Fuel,100.0,,0,Blender
+Fused Modular Frame,Fused Modular Frame,Heavy Modular Frame,1.5,Aluminum Casing,75.0,Nitrogen Gas,37.5,,0,Fused Modular Frame,1.5,,0,Blender
+Alternate: Heat-Fused Frame,Fused Modular Frame,Heavy Modular Frame,3.0,Aluminum Ingot,150.0,Nitric Acid,24.0,Fuel,30.0,Fused Modular Frame,3.0,,0,Blender
+Gas Filter,Gas Filter,Fabric,15.0,Coal,30.0,Iron Plate,15.0,,0,Gas Filter,7.5,,0,Manufacturer
+Gas Nobelisk,Gas Nobelisk,Nobelisk,5.0,Biomass,50.0,,0,,0,Gas Nobelisk,5.0,,0,Assembler
+Heat Sink,Heat Sink,Alclad Aluminum Sheet,37.5,Copper Sheet,22.5,,0,,0,Heat Sink,7.5,,0,Assembler
+Alternate: Heat Exchanger,Heat Sink,Aluminum Casing,30.0,Rubber,30.0,,0,,0,Heat Sink,10.0,,0,Assembler
+Alternate: Heavy Flexible Frame,Heavy Modular Frame,Modular Frame,18.75,Encased Industrial Beam,11.25,Rubber,75.0,Screw,390.0,Heavy Modular Frame,3.75,,0,Manufacturer
+Heavy Modular Frame,Heavy Modular Frame,Modular Frame,10.0,Steel Pipe,40.0,Encased Industrial Beam,10.0,Screw,240.0,Heavy Modular Frame,2.0,,0,Manufacturer
+Alternate: Heavy Encased Frame,Heavy Modular Frame,Modular Frame,7.5,Encased Industrial Beam,9.375,Steel Pipe,33.75,Concrete,20.625,Heavy Modular Frame,2.8125,,0,Manufacturer
+Unpackage Heavy Oil Residue,Heavy Oil Residue,Packaged Heavy Oil Residue,20.0,,0,,0,,0,Heavy Oil Residue,20.0,Empty Canister,20.0,Packager
+Alternate: Heavy Oil Residue,Heavy Oil Residue,Crude Oil,30.0,,0,,0,,0,Heavy Oil Residue,40.0,Polymer Resin,20.0,Refinery
+High-Speed Connector,High-Speed Connector,Quickwire,210.0,Cable,37.5,Circuit Board,3.75,,0,High-Speed Connector,3.75,,0,Manufacturer
+Alternate: Silicon High-Speed Connector,High-Speed Connector,Quickwire,90.0,Silica,37.5,Circuit Board,3.0,,0,High-Speed Connector,3.0,,0,Manufacturer
+Homing Rifle Ammo,Homing Rifle Ammo,Rifle Ammo,50.0,High-Speed Connector,2.5,,0,,0,Homing Rifle Ammo,25.0,,0,Assembler
+Iodine-Infused Filter,Iodine-Infused Filter,Gas Filter,3.75,Quickwire,30.0,Aluminum Casing,3.75,,0,Iodine-Infused Filter,3.75,,0,Manufacturer
+Alternate: Dark-Ion Fuel,Ionized Fuel,Packaged Rocket Fuel,240.0,Dark Matter Crystal,80.0,,0,,0,Ionized Fuel,200.0,Compacted Coal,40.0,Converter
+Ionized Fuel,Ionized Fuel,Rocket Fuel,40.0,Power Shard,2.5,,0,,0,Ionized Fuel,40.0,Compacted Coal,5.0,Refinery
+Unpackage Ionized Fuel,Ionized Fuel,Packaged Ionized Fuel,40.0,,0,,0,,0,Ionized Fuel,80.0,Empty Fluid Tank,40.0,Packager
+Iron FICSMAS Ornament,Iron FICSMAS Ornament,Blue FICSMAS Ornament,15.0,Iron Ingot,15.0,,0,,0,Iron FICSMAS Ornament,5.0,,0,Foundry
+Iron Ingot,Iron Ingot,Iron Ore,30.0,,0,,0,,0,Iron Ingot,30.0,,0,Smelter
+Alternate: Pure Iron Ingot,Iron Ingot,Iron Ore,35.0,Water,20.0,,0,,0,Iron Ingot,65.0,,0,Refinery
+Alternate: Leached Iron ingot,Iron Ingot,Iron Ore,50.0,Sulfuric Acid,10.0,,0,,0,Iron Ingot,100.0,,0,Refinery
+Alternate: Basic Iron Ingot,Iron Ingot,Iron Ore,25.0,Limestone,40.0,,0,,0,Iron Ingot,50.0,,0,Foundry
+Alternate: Iron Alloy Ingot,Iron Ingot,Iron Ore,40.0,Copper Ore,10.0,,0,,0,Iron Ingot,75.0,,0,Foundry
+Iron Ore (Limestone),Iron Ore,Reanimated SAM,10.0,Limestone,240.0,,0,,0,Iron Ore,120.0,,0,Converter
+Iron Plate,Iron Plate,Iron Ingot,30.0,,0,,0,,0,Iron Plate,20.0,,0,Constructor
+Alternate: Coated Iron Plate,Iron Plate,Iron Ingot,37.5,Plastic,7.5,,0,,0,Iron Plate,75.0,,0,Assembler
+Alternate: Steel Cast Plate,Iron Plate,Iron Ingot,15.0,Steel Ingot,15.0,,0,,0,Iron Plate,45.0,,0,Foundry
+Iron Rebar,Iron Rebar,Iron Rod,15.0,,0,,0,,0,Iron Rebar,15.0,,0,Constructor
+Iron Rod,Iron Rod,Iron Ingot,15.0,,0,,0,,0,Iron Rod,15.0,,0,Constructor
+Alternate: Steel Rod,Iron Rod,Steel Ingot,12.0,,0,,0,,0,Iron Rod,48.0,,0,Constructor
+Alternate: Aluminum Rod,Iron Rod,Aluminum Ingot,7.5,,0,,0,,0,Iron Rod,52.5,,0,Constructor
+Limestone (Sulfur),Limestone,Reanimated SAM,10.0,Sulfur,20.0,,0,,0,Limestone,120.0,,0,Converter
+Liquid Biofuel,Liquid Biofuel,Solid Biofuel,90.0,Water,45.0,,0,,0,Liquid Biofuel,60.0,,0,Refinery
+Unpackage Liquid Biofuel,Liquid Biofuel,Packaged Liquid Biofuel,60.0,,0,,0,,0,Liquid Biofuel,60.0,Empty Canister,60.0,Packager
+Magnetic Field Generator,Magnetic Field Generator,Versatile Framework,2.5,Electromagnetic Control Rod,1.0,,0,,0,Magnetic Field Generator,1.0,,0,Assembler
+Modular Engine,Modular Engine,Motor,2.0,Rubber,15.0,Smart Plating,2.0,,0,Modular Engine,1.0,,0,Manufacturer
+Modular Frame,Modular Frame,Reinforced Iron Plate,3.0,Iron Rod,12.0,,0,,0,Modular Frame,2.0,,0,Assembler
+Alternate: Bolted Frame,Modular Frame,Reinforced Iron Plate,7.5,Screw,140.0,,0,,0,Modular Frame,5.0,,0,Assembler
+Alternate: Steeled Frame,Modular Frame,Reinforced Iron Plate,2.0,Steel Pipe,10.0,,0,,0,Modular Frame,3.0,,0,Assembler
+Motor,Motor,Rotor,10.0,Stator,10.0,,0,,0,Motor,5.0,,0,Assembler
+Alternate: Electric Motor,Motor,Electromagnetic Control Rod,3.75,Rotor,7.5,,0,,0,Motor,7.5,,0,Assembler
+Alternate: Rigor Motor,Motor,Rotor,3.75,Stator,3.75,Crystal Oscillator,1.25,,0,Motor,7.5,,0,Manufacturer
+Neural-Quantum Processor,Neural-Quantum Processor,Time Crystal,15.0,Supercomputer,3.0,Ficsite Trigon,45.0,Excited Photonic Matter,75.0,Neural-Quantum Processor,3.0,Dark Matter Residue,75.0,QuantumEncoder
+Nitric Acid,Nitric Acid,Nitrogen Gas,120.0,Water,30.0,Iron Plate,10.0,,0,Nitric Acid,30.0,,0,Blender
+Unpackage Nitric Acid,Nitric Acid,Packaged Nitric Acid,20.0,,0,,0,,0,Nitric Acid,20.0,Empty Fluid Tank,20.0,Packager
+Nitrogen Gas (Bauxite),Nitrogen Gas,Reanimated SAM,10.0,Bauxite,100.0,,0,,0,Nitrogen Gas,120.0,,0,Converter
+Nitrogen Gas (Caterium),Nitrogen Gas,Reanimated SAM,10.0,Caterium Ore,120.0,,0,,0,Nitrogen Gas,120.0,,0,Converter
+Unpackage Nitrogen Gas,Nitrogen Gas,Packaged Nitrogen Gas,60.0,,0,,0,,0,Nitrogen Gas,240.0,Empty Fluid Tank,60.0,Packager
+Nobelisk,Nobelisk,Black Powder,20.0,Steel Pipe,20.0,,0,,0,Nobelisk,10.0,,0,Assembler
+Non-Fissile Uranium,Non-Fissile Uranium,Uranium Waste,37.5,Silica,25.0,Nitric Acid,15.0,Sulfuric Acid,15.0,Non-Fissile Uranium,50.0,Water,15.0,Blender
+Alternate: Fertile Uranium,Non-Fissile Uranium,Uranium,25.0,Uranium Waste,25.0,Nitric Acid,15.0,Sulfuric Acid,25.0,Non-Fissile Uranium,100.0,Water,40.0,Blender
+Nuclear Pasta,Nuclear Pasta,Copper Powder,100.0,Pressure Conversion Cube,0.5,,0,,0,Nuclear Pasta,0.5,,0,HadronCollider
+Nuke Nobelisk,Nuke Nobelisk,Nobelisk,2.5,Encased Uranium Cell,10.0,Smokeless Powder,5.0,AI Limiter,3.0,Nuke Nobelisk,0.5,,0,Manufacturer
+Packaged Alumina Solution,Packaged Alumina Solution,Alumina Solution,120.0,Empty Canister,120.0,,0,,0,Packaged Alumina Solution,120.0,,0,Packager
+Packaged Fuel,Packaged Fuel,Fuel,40.0,Empty Canister,40.0,,0,,0,Packaged Fuel,40.0,,0,Packager
+Alternate: Diluted Packaged Fuel,Packaged Fuel,Heavy Oil Residue,30.0,Packaged Water,60.0,,0,,0,Packaged Fuel,60.0,,0,Refinery
+Packaged Heavy Oil Residue,Packaged Heavy Oil Residue,Heavy Oil Residue,30.0,Empty Canister,30.0,,0,,0,Packaged Heavy Oil Residue,30.0,,0,Packager
+Packaged Ionized Fuel,Packaged Ionized Fuel,Ionized Fuel,80.0,Empty Fluid Tank,40.0,,0,,0,Packaged Ionized Fuel,40.0,,0,Packager
+Packaged Liquid Biofuel,Packaged Liquid Biofuel,Liquid Biofuel,40.0,Empty Canister,40.0,,0,,0,Packaged Liquid Biofuel,40.0,,0,Packager
+Packaged Nitric Acid,Packaged Nitric Acid,Nitric Acid,30.0,Empty Fluid Tank,30.0,,0,,0,Packaged Nitric Acid,30.0,,0,Packager
+Packaged Nitrogen Gas,Packaged Nitrogen Gas,Nitrogen Gas,240.0,Empty Fluid Tank,60.0,,0,,0,Packaged Nitrogen Gas,60.0,,0,Packager
+Packaged Oil,Packaged Oil,Crude Oil,30.0,Empty Canister,30.0,,0,,0,Packaged Oil,30.0,,0,Packager
+Packaged Rocket Fuel,Packaged Rocket Fuel,Rocket Fuel,120.0,Empty Fluid Tank,60.0,,0,,0,Packaged Rocket Fuel,60.0,,0,Packager
+Packaged Sulfuric Acid,Packaged Sulfuric Acid,Sulfuric Acid,40.0,Empty Canister,40.0,,0,,0,Packaged Sulfuric Acid,40.0,,0,Packager
+Packaged Turbofuel,Packaged Turbofuel,Turbofuel,20.0,Empty Canister,20.0,,0,,0,Packaged Turbofuel,20.0,,0,Packager
+Packaged Water,Packaged Water,Water,60.0,Empty Canister,60.0,,0,,0,Packaged Water,60.0,,0,Packager
+Petroleum Coke,Petroleum Coke,Heavy Oil Residue,40.0,,0,,0,,0,Petroleum Coke,120.0,,0,Refinery
+Plastic,Plastic,Crude Oil,30.0,,0,,0,,0,Plastic,20.0,Heavy Oil Residue,10.0,Refinery
+Residual Plastic,Plastic,Polymer Resin,60.0,Water,20.0,,0,,0,Plastic,20.0,,0,Refinery
+Alternate: Recycled Plastic,Plastic,Rubber,30.0,Fuel,30.0,,0,,0,Plastic,60.0,,0,Refinery
+Plutonium Fuel Rod,Plutonium Fuel Rod,Encased Plutonium Cell,7.5,Steel Beam,4.5,Electromagnetic Control Rod,1.5,Heat Sink,2.5,Plutonium Fuel Rod,0.25,,0,Manufacturer
+Alternate: Plutonium Fuel Unit,Plutonium Fuel Rod,Encased Plutonium Cell,10.0,Pressure Conversion Cube,0.5,,0,,0,Plutonium Fuel Rod,0.5,,0,Assembler
+Plutonium Pellet,Plutonium Pellet,Non-Fissile Uranium,100.0,Uranium Waste,25.0,,0,,0,Plutonium Pellet,30.0,,0,HadronCollider
+Alternate: Polymer Resin,Polymer Resin,Crude Oil,60.0,,0,,0,,0,Polymer Resin,130.0,Heavy Oil Residue,20.0,Refinery
+Alternate: Automated Miner,Portable Miner,Steel Pipe,4.0,Iron Plate,4.0,,0,,0,Portable Miner,1.0,,0,Assembler
+Power Shard (1),Power Shard,Blue Power Slug,7.5,,0,,0,,0,Power Shard,7.5,,0,Constructor
+Synthetic Power Shard,Power Shard,Time Crystal,10.0,Dark Matter Crystal,10.0,Quartz Crystal,60.0,Excited Photonic Matter,60.0,Power Shard,5.0,Dark Matter Residue,60.0,QuantumEncoder
+Power Shard (5),Power Shard,Purple Power Slug,2.5,,0,,0,,0,Power Shard,12.5,,0,Constructor
+Power Shard (2),Power Shard,Yellow Power Slug,5.0,,0,,0,,0,Power Shard,10.0,,0,Constructor
+Pressure Conversion Cube,Pressure Conversion Cube,Fused Modular Frame,1.0,Radio Control Unit,2.0,,0,,0,Pressure Conversion Cube,1.0,,0,Assembler
+Pulse Nobelisk,Pulse Nobelisk,Nobelisk,5.0,Crystal Oscillator,1.0,,0,,0,Pulse Nobelisk,5.0,,0,Assembler
+Alternate: Pure Quartz Crystal,Quartz Crystal,Raw Quartz,67.5,Water,37.5,,0,,0,Quartz Crystal,52.5,,0,Refinery
+Quartz Crystal,Quartz Crystal,Raw Quartz,37.5,,0,,0,,0,Quartz Crystal,22.5,,0,Constructor
+Alternate: Quartz Purification,Quartz Crystal,Raw Quartz,120.0,Nitric Acid,10.0,,0,,0,Quartz Crystal,75.0,Dissolved Silica,60.0,Refinery
+Alternate: Fused Quartz Crystal,Quartz Crystal,Raw Quartz,75.0,Coal,36.0,,0,,0,Quartz Crystal,54.0,,0,Foundry
+Alternate: Fused Quickwire,Quickwire,Caterium Ingot,7.5,Copper Ingot,37.5,,0,,0,Quickwire,90.0,,0,Assembler
+Quickwire,Quickwire,Caterium Ingot,12.0,,0,,0,,0,Quickwire,60.0,,0,Constructor
+Radio Control Unit,Radio Control Unit,Aluminum Casing,40.0,Crystal Oscillator,1.25,Computer,2.5,,0,Radio Control Unit,2.5,,0,Manufacturer
+Alternate: Radio Control System,Radio Control Unit,Crystal Oscillator,1.5,Circuit Board,15.0,Aluminum Casing,90.0,Rubber,45.0,Radio Control Unit,4.5,,0,Manufacturer
+Alternate: Radio Connection Unit,Radio Control Unit,Heat Sink,15.0,High-Speed Connector,7.5,Quartz Crystal,45.0,,0,Radio Control Unit,3.75,,0,Manufacturer
+Raw Quartz (Bauxite),Raw Quartz,Reanimated SAM,10.0,Bauxite,100.0,,0,,0,Raw Quartz,120.0,,0,Converter
+Raw Quartz (Coal),Raw Quartz,Reanimated SAM,10.0,Coal,240.0,,0,,0,Raw Quartz,120.0,,0,Converter
+Reanimated SAM,Reanimated SAM,SAM,120.0,,0,,0,,0,Reanimated SAM,30.0,,0,Constructor
+Red FICSMAS Ornament,Red FICSMAS Ornament,FICSMAS Gift,5.0,,0,,0,,0,Red FICSMAS Ornament,5.0,,0,Smelter
+Alternate: Adhered Iron Plate,Reinforced Iron Plate,Iron Plate,11.25,Rubber,3.75,,0,,0,Reinforced Iron Plate,3.75,,0,Assembler
+Alternate: Stitched Iron Plate,Reinforced Iron Plate,Iron Plate,18.75,Wire,37.5,,0,,0,Reinforced Iron Plate,5.625,,0,Assembler
+Alternate: Bolted Iron Plate,Reinforced Iron Plate,Iron Plate,90.0,Screw,250.0,,0,,0,Reinforced Iron Plate,15.0,,0,Assembler
+Reinforced Iron Plate,Reinforced Iron Plate,Iron Plate,30.0,Screw,60.0,,0,,0,Reinforced Iron Plate,5.0,,0,Assembler
+Rifle Ammo,Rifle Ammo,Copper Sheet,15.0,Smokeless Powder,10.0,,0,,0,Rifle Ammo,75.0,,0,Assembler
+Alternate: Nitro Rocket Fuel,Rocket Fuel,Fuel,100.0,Nitrogen Gas,75.0,Sulfur,100.0,Coal,50.0,Rocket Fuel,150.0,Compacted Coal,25.0,Blender
+Rocket Fuel,Rocket Fuel,Turbofuel,60.0,Nitric Acid,10.0,,0,,0,Rocket Fuel,100.0,Compacted Coal,10.0,Blender
+Unpackage Rocket Fuel,Rocket Fuel,Packaged Rocket Fuel,60.0,,0,,0,,0,Rocket Fuel,120.0,Empty Fluid Tank,60.0,Packager
+Alternate: Copper Rotor,Rotor,Copper Sheet,22.5,Screw,195.0,,0,,0,Rotor,11.25,,0,Assembler
+Rotor,Rotor,Iron Rod,20.0,Screw,100.0,,0,,0,Rotor,4.0,,0,Assembler
+Alternate: Steel Rotor,Rotor,Steel Pipe,10.0,Wire,30.0,,0,,0,Rotor,5.0,,0,Assembler
+Rubber,Rubber,Crude Oil,30.0,,0,,0,,0,Rubber,20.0,Heavy Oil Residue,20.0,Refinery
+Residual Rubber,Rubber,Polymer Resin,40.0,Water,40.0,,0,,0,Rubber,20.0,,0,Refinery
+Alternate: Recycled Rubber,Rubber,Plastic,30.0,Fuel,30.0,,0,,0,Rubber,60.0,,0,Refinery
+SAM Fluctuator,SAM Fluctuator,Reanimated SAM,60.0,Wire,50.0,Steel Pipe,30.0,,0,SAM Fluctuator,10.0,,0,Manufacturer
+Alternate: Steel Screw,Screw,Steel Beam,5.0,,0,,0,,0,Screw,260.0,,0,Constructor
+Alternate: Cast Screw,Screw,Iron Ingot,12.5,,0,,0,,0,Screw,50.0,,0,Constructor
+Screw,Screw,Iron Rod,10.0,,0,,0,,0,Screw,40.0,,0,Constructor
+Shatter Rebar,Shatter Rebar,Iron Rebar,10.0,Quartz Crystal,15.0,,0,,0,Shatter Rebar,5.0,,0,Assembler
+Silica,Silica,Raw Quartz,22.5,,0,,0,,0,Silica,37.5,,0,Constructor
+Alternate: Distilled Silica,Silica,Dissolved Silica,120.0,Limestone,50.0,Water,100.0,,0,Silica,270.0,Water,80.0,Blender
+Alternate: Cheap Silica,Silica,Raw Quartz,22.5,Limestone,37.5,,0,,0,Silica,52.5,,0,Assembler
+Singularity Cell,Singularity Cell,Nuclear Pasta,1.0,Dark Matter Crystal,20.0,Iron Plate,100.0,Concrete,200.0,Singularity Cell,10.0,,0,Manufacturer
+Alternate: Plastic Smart Plating,Smart Plating,Reinforced Iron Plate,2.5,Rotor,2.5,Plastic,7.5,,0,Smart Plating,5.0,,0,Manufacturer
+Smart Plating,Smart Plating,Reinforced Iron Plate,2.0,Rotor,2.0,,0,,0,Smart Plating,2.0,,0,Assembler
+Smokeless Powder,Smokeless Powder,Black Powder,20.0,Heavy Oil Residue,10.0,,0,,0,Smokeless Powder,20.0,,0,Refinery
+Snowball,Snowball,Actual Snow,15.0,,0,,0,,0,Snowball,5.0,,0,Constructor
+Solid Biofuel,Solid Biofuel,Biomass,120.0,,0,,0,,0,Solid Biofuel,60.0,,0,Constructor
+Sparkly Fireworks,Sparkly Fireworks,FICSMAS Tree Branch,7.5,Actual Snow,5.0,,0,,0,Sparkly Fireworks,2.5,,0,Assembler
+Stator,Stator,Steel Pipe,15.0,Wire,40.0,,0,,0,Stator,5.0,,0,Assembler
+Alternate: Quickwire Stator,Stator,Steel Pipe,16.0,Quickwire,60.0,,0,,0,Stator,8.0,,0,Assembler
+Steel Beam,Steel Beam,Steel Ingot,60.0,,0,,0,,0,Steel Beam,15.0,,0,Constructor
+Alternate: Molded Beam,Steel Beam,Steel Ingot,120.0,Concrete,80.0,,0,,0,Steel Beam,45.0,,0,Foundry
+Alternate: Aluminum Beam,Steel Beam,Aluminum Ingot,22.5,,0,,0,,0,Steel Beam,22.5,,0,Constructor
+Steel Ingot,Steel Ingot,Iron Ore,45.0,Coal,45.0,,0,,0,Steel Ingot,45.0,,0,Foundry
+Alternate: Coke Steel Ingot,Steel Ingot,Iron Ore,75.0,Petroleum Coke,75.0,,0,,0,Steel Ingot,100.0,,0,Foundry
+Alternate: Compacted Steel Ingot,Steel Ingot,Iron Ore,5.0,Compacted Coal,2.5,,0,,0,Steel Ingot,10.0,,0,Foundry
+Alternate: Solid Steel Ingot,Steel Ingot,Iron Ingot,40.0,Coal,40.0,,0,,0,Steel Ingot,60.0,,0,Foundry
+Steel Pipe,Steel Pipe,Steel Ingot,30.0,,0,,0,,0,Steel Pipe,20.0,,0,Constructor
+Alternate: Molded Steel Pipe,Steel Pipe,Steel Ingot,50.0,Concrete,30.0,,0,,0,Steel Pipe,50.0,,0,Foundry
+Alternate: Iron Pipe,Steel Pipe,Iron Ingot,100.0,,0,,0,,0,Steel Pipe,25.0,,0,Constructor
+Stun Rebar,Stun Rebar,Iron Rebar,10.0,Quickwire,50.0,,0,,0,Stun Rebar,10.0,,0,Assembler
+Sulfur (Coal),Sulfur,Reanimated SAM,10.0,Coal,200.0,,0,,0,Sulfur,120.0,,0,Converter
+Sulfur (Iron),Sulfur,Reanimated SAM,10.0,Iron Ore,300.0,,0,,0,Sulfur,120.0,,0,Converter
+Sulfuric Acid,Sulfuric Acid,Sulfur,50.0,Water,50.0,,0,,0,Sulfuric Acid,50.0,,0,Refinery
+Unpackage Sulfuric Acid,Sulfuric Acid,Packaged Sulfuric Acid,60.0,,0,,0,,0,Sulfuric Acid,60.0,Empty Canister,60.0,Packager
+Supercomputer,Supercomputer,Computer,7.5,AI Limiter,3.75,High-Speed Connector,5.625,Plastic,52.5,Supercomputer,1.875,,0,Manufacturer
+Alternate: Super-State Computer,Supercomputer,Computer,7.199999999999999,Electromagnetic Control Rod,2.4,Battery,24.0,Wire,60.0,Supercomputer,2.4,,0,Manufacturer
+Alternate: OC Supercomputer,Supercomputer,Radio Control Unit,6.0,Cooling System,6.0,,0,,0,Supercomputer,3.0,,0,Assembler
+Superposition Oscillator,Superposition Oscillator,Dark Matter Crystal,30.0,Crystal Oscillator,5.0,Alclad Aluminum Sheet,45.0,Excited Photonic Matter,125.0,Superposition Oscillator,5.0,Dark Matter Residue,125.0,QuantumEncoder
+Sweet Fireworks,Sweet Fireworks,FICSMAS Tree Branch,15.0,Candy Cane,7.5,,0,,0,Sweet Fireworks,2.5,,0,Assembler
+Thermal Propulsion Rocket,Thermal Propulsion Rocket,Modular Engine,2.5,Turbo Motor,1.0,Cooling System,3.0,Fused Modular Frame,1.0,Thermal Propulsion Rocket,1.0,,0,Manufacturer
+Time Crystal,Time Crystal,Diamonds,12.0,,0,,0,,0,Time Crystal,6.0,,0,Converter
+Alternate: Turbo Pressure Motor,Turbo Motor,Motor,7.5,Pressure Conversion Cube,1.875,Packaged Nitrogen Gas,45.0,Stator,15.0,Turbo Motor,3.75,,0,Manufacturer
+Alternate: Turbo Electric Motor,Turbo Motor,Motor,6.5625,Radio Control Unit,8.4375,Electromagnetic Control Rod,4.6875,Rotor,6.5625,Turbo Motor,2.8125,,0,Manufacturer
+Turbo Motor,Turbo Motor,Cooling System,7.5,Radio Control Unit,3.75,Motor,7.5,Rubber,45.0,Turbo Motor,1.875,,0,Manufacturer
+Turbo Rifle Ammo,Turbo Rifle Ammo,Rifle Ammo,125.0,Aluminum Casing,15.0,Packaged Turbofuel,15.0,,0,Turbo Rifle Ammo,250.0,,0,Manufacturer
+Turbo Rifle Ammo,Turbo Rifle Ammo,Rifle Ammo,125.0,Aluminum Casing,15.0,Turbofuel,15.0,,0,Turbo Rifle Ammo,250.0,,0,Blender
+Turbofuel,Turbofuel,Fuel,22.5,Compacted Coal,15.0,,0,,0,Turbofuel,18.75,,0,Refinery
+Unpackage Turbofuel,Turbofuel,Packaged Turbofuel,20.0,,0,,0,,0,Turbofuel,20.0,Empty Canister,20.0,Packager
+Alternate: Turbo Heavy Fuel,Turbofuel,Heavy Oil Residue,37.5,Compacted Coal,30.0,,0,,0,Turbofuel,30.0,,0,Refinery
+Alternate: Turbo Blend Fuel,Turbofuel,Fuel,15.0,Heavy Oil Residue,30.0,Sulfur,22.5,Petroleum Coke,22.5,Turbofuel,45.0,,0,Blender
+Uranium Ore (Bauxite),Uranium,Reanimated SAM,10.0,Bauxite,480.0,,0,,0,Uranium,120.0,,0,Converter
+Uranium Fuel Rod,Uranium Fuel Rod,Encased Uranium Cell,20.0,Encased Industrial Beam,1.2000000000000002,Electromagnetic Control Rod,2.0,,0,Uranium Fuel Rod,0.4,,0,Manufacturer
+Alternate: Uranium Fuel Unit,Uranium Fuel Rod,Encased Uranium Cell,20.0,Electromagnetic Control Rod,2.0,Crystal Oscillator,0.6000000000000001,Rotor,2.0,Uranium Fuel Rod,0.6000000000000001,,0,Manufacturer
+Versatile Framework,Versatile Framework,Modular Frame,2.5,Steel Beam,30.0,,0,,0,Versatile Framework,5.0,,0,Assembler
+Alternate: Flexible Framework,Versatile Framework,Modular Frame,3.75,Steel Beam,22.5,Rubber,30.0,,0,Versatile Framework,7.5,,0,Manufacturer
+Unpackage Water,Water,Packaged Water,120.0,,0,,0,,0,Water,120.0,Empty Canister,120.0,Packager
+Alternate: Fused Wire,Wire,Copper Ingot,12.0,Caterium Ingot,3.0,,0,,0,Wire,90.0,,0,Assembler
+Alternate: Caterium Wire,Wire,Caterium Ingot,15.0,,0,,0,,0,Wire,120.0,,0,Constructor
+Alternate: Iron Wire,Wire,Iron Ingot,12.5,,0,,0,,0,Wire,22.5,,0,Constructor
+Wire,Wire,Copper Ingot,15.0,,0,,0,,0,Wire,30.0,,0,Constructor
